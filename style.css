@@ -89,18 +89,18 @@ body {
 }
 .main-title {
 	top: 35%;
-	left: 40%;
+	left: 37%;
+  right: 37%;
 	position: absolute;
 	text-align: center;
 	align-items: center;
 	color: white;
 }
 .main-title h1 {
-	font-size: 100px;
-	transition: 0.5s;
+	font-size: 5vw;
 }
 .main-title p {
-	font-size: 24px;
+	font-size: 1.5vw;
 	font-weight: 400;
 }
 .intro {
